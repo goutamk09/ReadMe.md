@@ -1,7 +1,7 @@
 Hi 👋 My name is Goutam K
 =========================
 
-Aspiring Developer.
+I am an aspiring Developer.
 -------------------
 
 As a Java Full Stack Developer, I have experience working with web development frameworks like Spring and Hibernate, as well as web technologies such as HTML, CSS, and JavaScript. I am proficient in Object-Oriented Programming (OOPs) concepts and have a good understanding of MySQL databases. I possess strong problem-solving skills and excellent written and verbal communication skills, which makes me a valuable team player. I am always eager to learn and stay up-to-date with the latest industry trends.
